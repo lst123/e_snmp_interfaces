@@ -1,7 +1,7 @@
 # e_snmp_interfaces
 # Overview
 
-This is an enhanced SNMP network interface collector that provides:
+This is an enhanced SNMP network interface collector for Diamond that provides:
 
 ## Requirements
 
